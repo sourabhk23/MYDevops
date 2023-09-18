@@ -66,3 +66,27 @@ git stus
 git status
 clear
 git push 
+clear
+ls
+git branch 
+ls
+git status
+git add 
+git add .
+ls
+cear
+clear
+git push 
+git push origin feature 
+cat >> newfile4
+git add .
+git commit -m "just noe added 
+git commit -m "just noe added "
+git status
+ls
+cat newfile4
+clear
+git push
+git push origin main
+git push origin feature
+clear
